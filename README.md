@@ -18,4 +18,5 @@ git-scm
 
 Node.js
 
+![](powershell.JPG)
 
