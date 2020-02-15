@@ -1,6 +1,7 @@
 # powershell-react
-I create this script because I feel that setting up react app projects for learning or testing is boring.
-This script is created by using powershell, so it will be used in window only.
+I create this script because I feel that setting up react app projects for learning or testing is boring and time-consuming.
+This script is created by using powershell, so it will be used in window only. By using this script, creating react projects is quick and simple.
+In addtion, you do not have to remember command lines for creating react projects.  
 
 ### What you have to edit in the script file
 
